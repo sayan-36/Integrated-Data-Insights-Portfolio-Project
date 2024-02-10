@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio-
+# Integrated-Data-Insights-Portfolio-Project
 
 Welcome to my Data Analysis Portfolio! This repository showcases a collection of diverse projects related to data analysis, 
 visualization, and exploration. Each project demonstrates my skills in handling real-world datasets and deriving meaningful insights 
